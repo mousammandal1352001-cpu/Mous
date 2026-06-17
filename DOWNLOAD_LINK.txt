@@ -1,0 +1,20 @@
+=== QS TUNER ONE UI 5.1 MOD - DOWNLOAD ===
+
+Direct Download:
+https://github.com/mousammandal1352001-cpu/Mous/releases/download/qstuner-onui5-mod-v1.0/QStuner-OneUI5-Compatible-v11.0.03.15-MOD.apk
+
+File: QStuner-OneUI5-Compatible-v11.0.03.15-MOD.apk
+Size: ~11.8 MB
+Format: Android APK
+Target API: 33 (One UI 5.1)
+
+After download, see INSTALLATION_GUIDE.md for installation steps.
+
+=== STATUS ===
+Version: 1.0 Final
+Branch: mod-qstuner-onui5
+Released: 2026-06-17
+
+For issues or questions:
+- GitHub Issues: https://github.com/mousammandal1352001-cpu/Mous/issues
+- Repository: https://github.com/mousammandal1352001-cpu/Mous

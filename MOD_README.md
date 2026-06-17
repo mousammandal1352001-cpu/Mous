@@ -36,20 +36,7 @@ Modified version of Samsung Quick Settings Tuner (QS Tuner) v11.0.03.15 for **On
 
 ## Installation Instructions
 
-### For One UI 5.1 Devices:
-
-1. **Enable Installation from Unknown Sources**
-   - Settings → Apps → Permission Manager → Install Unknown Apps
-   - Select your file manager and toggle **ON**
-
-2. **Install the APK**
-   - Download `QStuner-OneUI5-Compatible-v11.0.03.15-MOD.apk`
-   - Use file manager to navigate and tap to install
-   - Grant all requested permissions
-
-3. **Verify Installation**
-   - Open Settings → Apps → Quick Settings Tuner
-   - App should launch without errors
+See [INSTALLATION_GUIDE.md](./INSTALLATION_GUIDE.md) for detailed steps.
 
 ## Features
 
@@ -57,26 +44,6 @@ Modified version of Samsung Quick Settings Tuner (QS Tuner) v11.0.03.15 for **On
 - ⚙️ System-level QS panel modifications
 - 🎯 One-tap custom shortcuts
 - 📱 Multi-device support (One UI 5.1 - 8.0+)
-
-## Known Issues
-
-None reported for One UI 5.1
-
-## Troubleshooting
-
-**Installation Fails:**
-- Clear Google Play Services cache: Settings → Apps → Google Play Services → Storage → Clear Cache
-- Restart device
-- Retry installation
-
-**App Force Closes:**
-- Uninstall and reinstall
-- Check available storage (min 100MB)
-- Ensure One UI 5.1 or higher
-
-**Permissions Not Granted:**
-- Go to Settings → Apps → Quick Settings Tuner → Permissions
-- Grant all required permissions manually
 
 ## File Information
 
@@ -88,56 +55,25 @@ None reported for One UI 5.1
 - **Min SDK:** 29 (Android 10)
 - **Target SDK:** 33 (One UI 5.1)
 
-## Technical Details
-
-### APK Modifications Process
-1. Decompiled with APKTool v2.7.0
-2. Modified AndroidManifest.xml targetSdkVersion
-3. Removed incompatible libraries for API 36
-4. Recompiled APK
-5. Signed with debug certificate
-
-### APK Signing Info
-- **Certificate Type:** Debug
-- **SHA-1:** [Generated during build]
-- **Valid Until:** 2054
-
-## Installation Sizes
-
-- **Compressed APK:** ~11.8 MB
-- **Installed Size:** ~28-35 MB (varies by device)
-- **Cache:** ~5-10 MB
-
-## Support & Issues
-
-For issues or bugs:
-1. Report in GitHub Issues
-2. Include device model and One UI version
-3. Attach logcat output if possible
-
 ## Disclaimer
 
 ⚠️ **USE AT YOUR OWN RISK**
 
-This is an unofficial modification. Samsung does not endorse this mod. 
+This is an unofficial modification. Samsung does not endorse this mod.
 
 - No warranty provided
-- May void device warranty in some regions
+- May affect some One UI features
 - Create backup before installation
-- Not responsible for device damage
+- Not responsible for device issues
 
-## Credits
+## Support
 
-- Original App: Samsung Electronics
-- Mod: Community Development
-- Based on: QS Tuner v11.0.03.15
-
-## License
-
-This modification is provided as-is for educational and personal use only.
+For issues or bugs:
+1. Report in GitHub Issues
+2. Include device model and One UI version
+3. Attach error messages or logcat output
 
 ---
 
 **Last Updated:** 2026-06-17
 **Mod Version:** 1.0
-**Tested On:** One UI 5.1 (Galaxy S23, S24 series)
